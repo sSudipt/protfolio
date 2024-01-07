@@ -20,9 +20,7 @@ font-weight: 700;
 padding: 15px 35px;
 
 }
-t{
-    color: aqua;
-}
+
 nav {
     display:flex ;
 }
@@ -40,4 +38,16 @@ nav li {
 }
 nav a{
     text-decoration: none;
+}
+/* heder releted */
+.hed{
+    background: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner.prof-pic{
+    width: 500px;
 }
